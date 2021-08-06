@@ -5,15 +5,22 @@
     align-items: center;
     margin: 0 auto;
 }
+.header{
+
+}
+.header__h1{
+    font-size: 3.5em;
+}
+
 .game__main{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 1000px;
+    width: 600px;
     height: 500px;
-    background-color: rgb(157, 200, 238);
+    background-color: rgb(208, 225, 240);
 }
 
 .game__player{
@@ -52,4 +59,11 @@
 
 .cell-E{
     background-color: white;
+}
+
+.footer{
+
+}
+.footer__h3{
+    
 }
