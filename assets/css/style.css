@@ -24,12 +24,12 @@
     justify-content: center;
     align-items: center;
     width: 310px;
-    height: 420px;
+    height: 350px;
     background-color: rgb(208, 225, 240);
 }
 
 .game__player{
-    height: 25px;
+    height: 20px;
     width: 12.5px;
     background-color: black;
     animation-duration: 100ms;
@@ -40,13 +40,13 @@
     align-items: center;
     justify-content: center;
     background-color: rgba(245, 222, 179, 0);
-    height: 25px;
+    height: 20px;
     width: 310px;
     margin-top: 3px;
 }
 
 .game_cell{
-    height: 25px;
+    height: 20px;
     width: 12.7px;
     margin-right: 1px;
     margin-left: 1px;
@@ -110,12 +110,12 @@
         justify-content: center;
         align-items: center;
         width: 600px;
-        height: 500px;
+        height: 407px;
         background-color: rgb(208, 225, 240);
     }
 
     .game__player{
-        height: 25px;
+        height: 24px;
         width: 25px;
         background-color: black;
     }
@@ -125,13 +125,13 @@
         align-items: center;
         justify-content: center;
         background-color: wheat;
-        height: 30px;
+        height: 24px;
         width: 570px;
         margin-top: 3px;
     }
 
     .game_cell{
-        height: 25px;
+        height: 24px;
         width: 25px;
         margin-right: 2px;
     }
@@ -148,14 +148,14 @@
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
-        width: 900px;
-        height: 700px;
+        width: 700px;
+        height: 530px;
         background-color: rgb(208, 225, 240);
     }
 
     .game__player{
-        height: 41px;
-        width: 41px;
+        height: 32px;
+        width: 32px;
         background-color: rgb(0, 0, 0);
         background-image: url(../img/pato.png);
         transform: scaleX(-1);
@@ -169,14 +169,14 @@
         align-items: center;
         justify-content: center;
         background-color: rgba(245, 222, 179, 0);
-        height: 43px;
-        width: 890px;
+        height: 32px;
+        width: 690px;
         margin-top: 3px;
     }
 
     .game_cell{
-        height: 41px;
-        width: 41px;
+        height: 32px;
+        width: 32px;
         margin-right: 1px;
     }
 
